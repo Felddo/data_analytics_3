@@ -12,12 +12,11 @@
 ### Установка
 1. git clone https://github.com/Felddo/data_analytics_3
 2. cd data_analytics_3
-3. pip install -r requirements.txt
-4. Делаем ключ на сайте https://console.groq.com/keys
-5. Вставляем в файл .env свой ключ "GROQ_API_KEY==ключ"
-6. Делаем токен в @BotFather
-7. Вставляем его в файл bot.py в переменную TOKEN 
-8. python bot.py
+3. Делаем ключ на сайте https://console.groq.com/keys
+4. Вставляем в файл .env свой ключ "GROQ_API_KEY==ключ"
+5. Делаем токен в @BotFather
+6. Вставляем его в файл bot.py в переменную TOKEN 
+7. python bot.py
 
 ### Пример входных данных
 ```csv
